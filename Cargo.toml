@@ -3,6 +3,8 @@ name = "pulply-dummy-crate"
 version = "0.1.0"
 edition = "2021"
 repository = "https://github.com/nanashi-1/pulply-dummy-crate"
+description = "Pulply dummy crate"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
